@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Rajkumar
-- 👀 I’m interested in Web Development and UI designing 
-- 🌱 I’m currently learning JavaScript and React.js
 - 📫 How to reach me ..
 
    Twitter - https://twitter.com/rjkmrtwt?t=xkVmeMYLAQKKwfxYHQneyQ&s=09
