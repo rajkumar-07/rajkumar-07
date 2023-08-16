@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rajkumar
 - Intrested in Web Development
-- Languages I code
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar-07)
